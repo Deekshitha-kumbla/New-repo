@@ -11,3 +11,4 @@ def test_celsius_to_farenheit_invalid():
 
 def test_celsius_to_farenheit_none():
     assert celsius_to_fahrenheit(None) is None
+
